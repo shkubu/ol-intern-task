@@ -1,0 +1,104 @@
+{
+  "projectId": 1,
+  "imagePath": "lisi_block_A.jpg",
+  "name": "lisi",
+  "nameKA": "ბინადარი ლისზე - ა ბლოკი",
+  "location": "ა. ტაბიძის 41",
+  "block": "A",
+  "apartmentLeftCount": 40,
+  "startDate": "12/12/2020",
+  "endDate": "20/01/2021",
+  "projectDescriptionKA": "პროექტის მიზანია ადამიანებს მიეცეთ შესაძლებლობა ეკონომიურ, ხელმისაწვდომ ფასად შეიძინონ და საკუთარი ხელფასით გადაიხადონ ბინის ღირებულება; ახალგაზრდებმა მათი დამოუკიდებელ ცხოვრების პირველი ნაბიჯებიდანვე განახორციელონ სწორი და გონივრული ინვესტიცია; ბავშვებიან ოჯახებს ჰქონდეთ საშუალება იცხოვრონ ჯანსაღ გარემოში; რაიონებიდან ჩამოსული სტუდენტების მშობლებს მიეცეთ შესაძლებლობა ქირის ნაცვლად ქალაქში შეიძინონ ბინა. ასევე ეს პროექტი არის იმ ადამიანებისთვის, რომელთაც უბრალოდ უყვართ ბუნება, სიმშვიდე, ფეხით სიარული, კარგი ხედი და სუფთა ჰაერი.",
+  "apartments": [
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": true,
+      "price": 844000
+    },
+    {
+      "id": 2,
+      "apartmentNumber": "02A",
+      "floor": 7,
+      "roomCount": 3,
+      "area": 80,
+      "sold": false,
+      "price": 630000
+    },
+    {
+      "id": 3,
+      "apartmentNumber": "03A",
+      "floor": 2,
+      "roomCount": 5,
+      "area": 60,
+      "sold": false,
+      "price": 360000
+    },
+    {
+      "id": 4,
+      "apartmentNumber": "07A",
+      "floor": 8,
+      "roomCount": 6,
+      "area": 180,
+      "sold": true,
+      "price": 1240000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": true,
+      "price": 844000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": false,
+      "price": 844000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": false,
+      "price": 844000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": true,
+      "price": 844000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": true,
+      "price": 844000
+    },
+    {
+      "id": 1,
+      "apartmentNumber": "01A",
+      "floor": 1,
+      "roomCount": 5,
+      "area": 120,
+      "sold": true,
+      "price": 844000
+    }
+  ]
+}

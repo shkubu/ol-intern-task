@@ -1,0 +1,182 @@
+[
+  {
+    "name": "furniture",
+    "companies": [
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "10%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "10%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "10%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "10%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      }
+    ]
+  },
+  {
+    "name": "repair",
+    "companies": [
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      }
+    ]
+  },
+  {
+    "name": "technic",
+    "companies": [
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      }
+    ]
+  },
+  {
+    "name": "securityInsurance",
+    "companies": [
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      }
+    ]
+  },
+  {
+    "name": "decoration",
+    "companies": [
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      }
+    ]
+  },
+  {
+    "name": "enjoyment",
+    "companies": [
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "woodstone",
+        "imagePath": "woodstone.png",
+        "salePercent": "5%"
+      },
+      {
+        "name": "embawood",
+        "imagePath": "embawood.png",
+        "salePercent": "5%"
+      }
+    ]
+  }
+]

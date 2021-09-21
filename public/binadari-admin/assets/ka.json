@@ -1,0 +1,198 @@
+{
+  "TAB": {
+    "GENERAL": "ზოგადი",
+    "PROJECTS": "პროექტები",
+    "IMAGES": "სურათები",
+    "FILES": "ფაილები",
+    "SLIDER_IMAGES": "სლაიდერის სურათები",
+    "ROOMS": "ოთახები",
+    "2D_SLIDER_IMAGES": "2D სურათები",
+    "3D_SLIDER_IMAGES": "3D სურათები",
+    "APARTMENT_TYPES": "ბინის ტიპები",
+    "FLOOR_APARTMENTS": "ბინის ტიპები",
+    "IMAGE": "სურათი",
+    "FLOOR_TYPES": "სართულის ტიპები",
+    "FLOORS": "სართულები",
+    "APARTMENTS": "ბინები",
+    "COMPANIES": "კომპანიები",
+    "CARDS": "Binadari Cards",
+    "NEWS": "სიახლეები",
+    "ORDERS": "შეკვეთები",
+    "SVG_GENERATOR": "SVG გენერატორი"
+  },
+  "TABLE": {
+    "QUANTITY": "რაოდენობა",
+    "NAME": "დასახელება",
+    "TITLE": "სათაური",
+    "ROWQUANTITY": "რაოდენობა",
+    "PROJECTS": {
+      "NAMEKA": "დასახელება",
+      "STATUS": "სტატუსი",
+      "STARTDATE": "დაწყების თარიღი",
+      "ENDDATE": "დასრულების თარიღი",
+      "BLOCKNAME": "ბლოკი",
+      "LOCATION": "მდებარეობა",
+      "LEFTAPARTMENTCOUNT": "დარჩენილია"
+    },
+    "APARTMENT_TYPES": {
+      "TITLE": "ბინის ტიპი",
+      "NAME": "დასახელება",
+      "PRICE": "ფასი",
+      "AREA": "ფართი",
+      "ROOMSCOUNT": "ოთახების რაოდენობა"
+    },
+    "FLOORS": {
+      "FLOOR": "სართული",
+      "FLOORTYPENAME": "სართულის ტიპი",
+      "NAME": "სართულის ტიპი"
+    },
+    "APARTMENTS": {
+      "FLOOR": "სართული",
+      "NAME": "ბინის N",
+      "PRICE": "ფასი",
+      "SOLD": "სტატუსი",
+      "APARTMENTNAME": "ბინის ტიპი"
+    }
+  },
+  "NAVIGATION": {
+    "PROJECTS": "პროექტები",
+    "APARTMENTS": "ბინები",
+    "FLOOR-TYPES": "სართულის ტიპები",
+    "FLOORS": "სართულები",
+    "APARTMENT-TYPES": "ბინის ტიპები",
+    "BINADARI-CARDS": "Binadari Cards",
+    "NEWS": "სიახლეები",
+    "ORDERS": "შეკვეთები",
+    "SUGGESTION": "შეთავაზება"
+  },
+  "PROJECTS": {
+    "NAME": "პროექტის დასახელება",
+    "NAME_KA": "დასახელება ქართულად",
+    "NAME_EN": "დასახელება ინგლისურად",
+    "SLOGAN_KA": "სლოგანი ქართულად",
+    "SLOGAN_EN": "სლოგანი ინგლისურად",
+    "DESCRIPTION_KA": "აღწერა ქართულად",
+    "DESCRIPTION_EN": "აღწერა ინგლისურად",
+    "BACKGROUND_OPACITY": "ბექგრაუნდის სიმკრთალე",
+    "COORDINATES": "რუკის კოორდინატები (მაგ: 41.7254163,44.7627886)",
+    "LOCATION": "მდებარეობა",
+    "LOCATION_EN": "მდებარეობა ინგლისურად",
+    "START_DATE": "პროექტის დაწყების თარიღი",
+    "END_DATE": "პროექტის დასრულების თარიღი",
+    "BLOCK_NAME": "ბლოკის სახელი ქართულად",
+    "BLOCK_NAME_EN": "ბლოკის სახელი ინგლისურად",
+    "FLOORS": "სართულების რაოდენობა",
+    "DATE_DURATION": "პროექტის ხანგრძლივობის პერიოდი",
+    "STATUS": "პროექტის სტატუსი",
+    "CURRENT": "მიმდინარე",
+    "DEFAULT_PRICE": "საბაზისო ფასი",
+    "FUTURE": "სამომავლო",
+    "COMPLETED": "დასრულებული",
+    "FROZEN": "გაყინული",
+    "INVESTMENT": "საინვესტიციო",
+    "KEY_WORD_TITLE": "შეიყვანეთ პროექტის უნიკალური Key word",
+    "VIDEO_URL": "ვიდეოს ლინკი",
+    "APARTMENT_COUNT": "ბინების რაოდენობა",
+    "SHOW_IN_HOME_PAGE": "აჩვენე მთავარ გვერდზე",
+    "SORT_INDEX": "სორტირების ინდექსი"
+  },
+  "APARTMENT_TYPE": {
+    "NAME": "დასახელება",
+    "AREA": "ფართი",
+    "ROOMS_COUNT": "ოთახების რაოდენობა",
+    "PRICE": "ფასი"
+  },
+  "FORM": {
+    "NOT_UPLOADED": "ატვირთეთ ფაილი",
+    "YES": "დიახ",
+    "NO": "არა"
+  },
+  "DATE": {
+    "DAY/MONTH/YEAR": "დღე/თვე/წელი",
+    "MONDAY": "ორშაბათი",
+    "TUESDAY": "სამშაბათი",
+    "WEDNESDAY": "ოთხშაბათი",
+    "THURSDAY": "ხუთშაბათი",
+    "FRIDAY": "პარასკევი",
+    "SATURDAY": "შაბათი",
+    "SUNDAY": "კვირა",
+    "MIN_DATE_ERROR": "-ზე მეტი უნდა იყოს თარიღი",
+    "MAX_DATE_ERROR": "-ზე ნაკლები უნდა იყოს თარიღი",
+    "JANUARY": "იანვარი",
+    "FEBRUARY": "თებერვალი",
+    "MARCH": "მარტი",
+    "APRIL": "აპრილი",
+    "MAY": "მაისი",
+    "JUNE": "ივნისი",
+    "JULY": "ივლისი",
+    "AUGUST": "აგვისტო",
+    "SEPTEMBER": "სექტემბერი",
+    "OCTOBER": "ოქტომბერი",
+    "NOVEMBER": "ნოემბერი",
+    "DECEMBER": "დეკემბერი"
+  },
+  "BASIC": {
+    "SEND": "გაგზავნა",
+    "FINISH": "დასრულება",
+    "CHOOSE": "არჩევა",
+    "NEXT": "გაგრძელება",
+    "SUBMIT": "დადასტურება",
+    "FILTER": "გაფილტვრა",
+    "ROWQUANTITY": "რაოდენობა"
+  },
+  "POPUP_ACCEPT": {
+    "DATA_DELETE_TITLE": "ველის წაშლა",
+    "DATA_DELETE_TEXT": "ნამდვილად გსურთ მონიშნული ველის წაშლა?",
+    "DELETE_BUTTON": "წაშლა"
+  },
+  "GROWL": {
+    "NO_MAIN_IMAGE": "გთხოვთ ატვირთოთ მთავარი სურათი",
+    "SELECT_PROJECT": "გთხოვთ აირჩიოთ პროექტი",
+    "NO_BLOCK_IMAGE": "გთხოვთ ატვირთოთ ბლოკის სურათი",
+    "SELECT_ROW": "აირჩიეთ ველი",
+    "FLOOR_ALREADY_EXISTS": "სართული უკვე არსებობს",
+    "FILL_ALL_FIELDS": "შეავსეთ ყველა ველი",
+    "CARD_TYPES_ALREADY_EXISTS": "მონიშნული ბარათის ტიპი უკვე დამატებულია"
+  },
+  "FILES": {
+    "MAIN_IMAGE": "მთავარი სურათი:",
+    "BLOCK_IMAGE": "ბლოკის სურათი:",
+    "PROJECT_FILE": "პროექტის ფაილი",
+    "FLOOR_IMAGE": "სართულის სურათი:",
+    "EXTRA_IMAGE": "დამატებითი სურათი:",
+    "SUGGESTION_IMAGE": "შეთავაზების სურათი"
+  },
+  "SELECT_PROJECT.TITLE": "აირჩიეთ პროექტი",
+  "FLOOR": {
+    "FLOOR_TYPE": "სართულის ტიპი",
+    "FLOOR": "სართული"
+  },
+  "APARTMENTS": {
+    "FALSE": "გასაყიდი",
+    "TRUE": "გაყიდული",
+    "SOLD": "გაყიდულია",
+    "NAME": "ბინის N",
+    "PRICE": "ფასი"
+  },
+  "CARDS": {
+    "TYPES": {
+      "FURNITURE": "ავეჯი",
+      "REPAIR": "რემონტი",
+      "TECHNIC": "ტექნიკა",
+      "SECURITY_INSURANCE": "დაცვა/დაზღვევა",
+      "DECORATION": "დეკორაცია",
+      "HEALTHY": "ჯამრთელობა / ესთეთიკა",
+      "ENJOYMENT": "გართობა / დასვენება"
+    }
+  },
+  "NEWS": {
+    "TITLE_KA": "სათაური ქართულად",
+    "TITLE_EN": "სათაური ინგლისურად",
+    "DATE": "თარიღი",
+    "TEXT_KA": "ტექსტი ქართულად",
+    "TEXT_EN": "ტექსტი ინგლისურად"
+  },
+  "SUGGESTION": {
+    "MAINIMAGEURL": "სურათის ლინკი"
+  }
+}

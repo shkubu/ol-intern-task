@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Group 3656" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.568 45.568">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M23.117,28.29l-5.757-7.2a11.421,11.421,0,1,1,2.351-1.925l5.778,7.224a1.519,1.519,0,1,1-2.372,1.9ZM3.038,11.392a8.354,8.354,0,1,0,8.354-8.354A8.363,8.363,0,0,0,3.038,11.392Z" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Lens" data-name="Icon/Lens">
+    <rect id="Icon_Lens_background" data-name="Icon/Lens background" width="45.568" height="45.568" fill="none"/>
+    <g id="Icon_Lens-2" data-name="Icon/Lens">
+      <path id="Grid" d="M0,0H45.568V45.568H0Z" fill="none"/>
+      <path id="Mask-2" data-name="Mask" d="M23.117,28.29l-5.757-7.2a11.421,11.421,0,1,1,2.351-1.925l5.778,7.224a1.519,1.519,0,1,1-2.372,1.9ZM3.038,11.392a8.354,8.354,0,1,0,8.354-8.354A8.363,8.363,0,0,0,3.038,11.392Z" transform="translate(9.114 7.595)" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      <g id="Icon_Lens-3" data-name="Icon/Lens" transform="translate(9.114 7.595)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Color" transform="translate(-9.114 -7.595)">
+          <path id="Icon_Fill_Dark" data-name="Icon/🖌 Fill/Dark" d="M0,0H45.568V45.568H0Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

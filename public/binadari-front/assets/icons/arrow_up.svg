@@ -1,0 +1,13 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 9">
+  <defs>
+<!--    <clipPath id="clip-path">-->
+<!--      <path id="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" fill="#362A22"/>-->
+<!--    </clipPath>-->
+<!--  </defs>-->
+  <g id="Icon_Chevron_Bottom" data-name="Icon/Chevron Bottom" transform="translate(16 9) rotate(180)">
+    <g id="Color" transform="translate(-7 -11)">
+      <path id="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" fill="#362A22"/>
+<!--      <path id="Icon_Fill_Bright" d="M0,0H30V30H0Z" fill="#362A22"/>-->
+    </g>
+  </g>
+</svg>

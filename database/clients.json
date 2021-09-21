@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "firstname": "ბექა",
+    "lastname": "შკუბულიანი",
+    "gender": "MALE",
+    "personId": "12312312300",
+    "phoneNumber": "555123000",
+    "address": {
+      "country": "საქართველო",
+      "city": "თბილისი",
+      "street": "ვარკეთილი"
+    }
+  },
+  {
+    "id": 2,
+    "firstname": "რამაზი",
+    "lastname": "გოიათი",
+    "gender": "MALE",
+    "personId": "12312312301",
+    "phoneNumber": "555123001",
+    "address": {
+      "country": "საქართველო",
+      "city": "თბილისი",
+      "street": "ვარკეთილი"
+    }
+  },
+  {
+    "firstname": "ეკა",
+    "lastname": "ზაბახიძე",
+    "gender": "FEMALE",
+    "personId": "12312312302",
+    "phoneNumber": "555123002",
+    "address": {
+      "country": "საქართველო",
+      "city": "თბილისი",
+      "street": "ვარკეთილი"
+    },
+    "id": 3
+  }
+]

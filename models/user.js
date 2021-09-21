@@ -1,15 +1,21 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const fs = require('fs');
 
-const userSchema = new Schema({
-  name: {
-    type: String,
-    required: true
-  },
-  password: {
-    type: String,
-    required: true
+class UserSchema {
+  constructor(name, password) {
+    this.name = name;
+    this.password = password
   }
-});
+  checkUser() {
+    const users = JSON.parse(fs.readFileSync('database/users.json'));
+    const inputUser = {
+      name: this.name,
+      password: this.password
+    }
+    const selectedUser = users.find((user) => {
+      return user.name === inputUser.name && user.password === inputUser.password;
+    });
+    return !!selectedUser;
+  }
+}
 
-module.exports = mongoose.model('User', userSchema);
+module.exports = UserSchema;

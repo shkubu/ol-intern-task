@@ -1,16 +1,16 @@
 [
   {
-    "accountNumber": 123412341231,
+    "accountNumber": "00GG123412341234",
+    "clientId": 1,
+    "accountType": "CURRENT",
+    "currency": "GEL",
+    "status": "ACTIVE"
+  },
+  {
+    "accountNumber": "00GG123412341233",
     "clientId": 2,
     "accountType": "CURRENT",
     "currency": "USD",
     "status": "CLOSED"
-  },
-  {
-    "accountNumber": 123412341232,
-    "clientId": 1,
-    "accountType": "CURRENT",
-    "currency": "USD",
-    "status": "ACTIVE"
   }
 ]

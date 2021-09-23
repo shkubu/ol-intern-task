@@ -1,0 +1,16 @@
+[
+  {
+    "accountNumber": 123412341231,
+    "clientId": 2,
+    "accountType": "CURRENTA",
+    "currency": "USD",
+    "status": "CLOSED"
+  },
+  {
+    "accountNumber": 123412341232,
+    "clientId": 1,
+    "accountType": "CURRENTA",
+    "currency": "USD",
+    "status": "CLOSED"
+  }
+]

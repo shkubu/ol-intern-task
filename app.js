@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 
 const authRoutes = require('./routes/auth');
 const clientsRoutes = require('./routes/clients');
+const accountsRoutes = require('./routes/accounts');
 
 const app = express();
 const helmet = require('helmet');
@@ -19,6 +20,7 @@ app.use((req, res, next) => {
 
 app.use('/back/auth', authRoutes);
 app.use('/back/clients', clientsRoutes);
+app.use('/back/accounts', accountsRoutes);
 
 app.use(helmet());
 

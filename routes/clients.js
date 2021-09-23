@@ -4,12 +4,12 @@ const isAuth = require('../middleware/is-auth');
 
 const clientsController = require('../controllers/clients');
 
-router.get('', clientsController.getData);
+router.get('', isAuth, clientsController.getData);
 
-router.post('', clientsController.postData);
+router.post('', isAuth, clientsController.postData);
 
-router.put('/:id', clientsController.updateData);
+router.put('/:id', isAuth, clientsController.updateData);
 
-router.delete('/:id', clientsController.deleteData);
+router.delete('/:id', isAuth, clientsController.deleteData);
 
 module.exports = router;
